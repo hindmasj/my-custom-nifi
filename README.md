@@ -1,6 +1,6 @@
 # My Custom NiFi
 
-Looking at some techniques for processing JSON within NiFi. See [my-nifi-cluster](../my-nifi-cluster) for the docker based cluster to run these on.
+Looking at some techniques for processing JSON within NiFi. See [my-nifi-cluster](https://github.com/hindmasj/my-nifi-cluster) for the docker based cluster to run these on.
 
 # Creation
 Used the Maven archetypes feature to generate the basis layout and sample code. I am still not sure about all the names I used and ended up doing a lot of editing afterwards so that the artifact IDs ended up looking like I wanted.
