@@ -29,7 +29,7 @@
 
   <properties>
     <revision>0.0.1-SNAPSHOT</revision>
-    <nifi.version>1.22.0</nifi.version>
+    <nifi.version>1.23.0</nifi.version>
   </properties>
 
   <modules>
