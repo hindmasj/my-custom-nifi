@@ -19,7 +19,7 @@
   <parent>
     <groupId>org.apache.nifi</groupId>
     <artifactId>nifi-nar-bundles</artifactId>
-    <version>1.22.0</version>
+    <version>1.28.1</version>
   </parent>
 
   <groupId>io.github.hindmasj</groupId>
@@ -29,7 +29,7 @@
 
   <properties>
     <revision>0.0.1-SNAPSHOT</revision>
-    <nifi.version>1.26.0</nifi.version>
+    <nifi.version>1.28.1</nifi.version>
   </properties>
 
   <modules>
